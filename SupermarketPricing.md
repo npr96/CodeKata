@@ -60,6 +60,15 @@ On all levels we should round to the nearest cent.
 How Much Do We Charge For a Good?
 ---------------------------------
 depending on our local environment, and the circumstances we are located in we may not even have the power to set prices. We do not have power to set prices so we will price at market price. The issue is going to be discovering that price, and also how often we change prices.
+###
+Price change frequency
+*constant price change
+the price can change at any moment. Issues include difficulty in updating prices. Information to the consumer would either have to be limited, leading them to be less likely to purchase, or we would need a dynamic way to portray prices to consumers. This will also likely lead to an issue with the culture of our store, as it is unknown if the price will be the same moment to moment.
+*periodic price change
+pricing changes periodically. It would be easiest to change prices overnight as there is less trafic. This is not an issue if the store is open at all times as we can staff more people on night shift to deal with this. If we are not open at all times, then it would be wise to hire a crew to come in before opening hours each day.
+we will change prices periodically. 
+###
+Price setting
 
 
 How Does Pricing Affect What We Sell?
@@ -74,3 +83,4 @@ What constitutes a supermarket
 Do we have market power?
 Usage of fractional currency and system used
 Allowance of rounding and scope of rounding
+Periodic vs constant pricing, also frequency of periods. 
